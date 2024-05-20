@@ -19,7 +19,7 @@ In this part, Gaussian Mixture Model (GMM) is used as a generative classifier. Y
 
 Part B: Support Vector Machine (SVM) 
 
-Linear SVM 
+Linear SVM:
 
 Use “Dataset1.mat” which is a 2D and 2-class dataset to do this part. The dataset has been attached to the project.
 
@@ -29,7 +29,7 @@ Use “Dataset1.mat” which is a 2D and 2-class dataset to do this part. The da
 
 • Report the train accuracy for both C=1 and C=100.
 
-Kernel SVM for two-class problem 
+Kernel SVM for two-class problem:
 
 In general, SVM is a linear classifier. When data are not linearly separable, Kernel SVM can be used. Here, you will utilize SVM with RBF kernel for non-linear classification. Perform the following step for “Dataset2.mat” and “Health.dat” datasets.
 
@@ -41,7 +41,7 @@ In general, SVM is a linear classifier. When data are not linearly separable, Ke
 
 • Report the test accuracy using the selected model (best C and 𝜎 )
 
-Kernel SVM for multi-class problem 
+Kernel SVM for multi-class problem:
 
 As you know, SVM is a two-class classifier. However, it can be extended for multi-class
 classification. For this, two approaches are possible: one-against-one and one-against-all
