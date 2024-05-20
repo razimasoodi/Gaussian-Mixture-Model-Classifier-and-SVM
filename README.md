@@ -13,6 +13,10 @@ In this part, Gaussian Mixture Model (GMM) is used as a generative classifier. Y
 
 • Use five-time-five-fold cross validation to determine the best K.
 
+
+
+
+
 Part B: Support Vector Machine (SVM) 
 
 Linear SVM 
